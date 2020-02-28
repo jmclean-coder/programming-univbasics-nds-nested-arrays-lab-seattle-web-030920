@@ -21,6 +21,7 @@ food_storage_room = [
   ORGANIC_PRODUCE,
   CONVENTIONAL_PRODUCE,
 ]
+food_storage_room
 end
 
 def sorted_matrix
