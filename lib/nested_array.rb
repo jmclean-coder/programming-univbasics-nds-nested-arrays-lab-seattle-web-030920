@@ -17,7 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-FOOD_STORAGE = [
+food_storage_room = [
   ORGANIC_PRODUCE,
   CONVENTIONAL_PRODUCE,
 ]
