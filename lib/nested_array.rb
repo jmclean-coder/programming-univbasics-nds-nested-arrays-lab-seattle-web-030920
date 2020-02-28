@@ -62,8 +62,9 @@ sorted_food_storage =[
   ].sort
 ]
 
- p sorted_food_storage
+sorted_food_storage
 end
+p sorted_food_storage
 
 def matrix_lookup(matrix, row, column)
   # Given any matrix (array of arrays), a row index and a column index,
